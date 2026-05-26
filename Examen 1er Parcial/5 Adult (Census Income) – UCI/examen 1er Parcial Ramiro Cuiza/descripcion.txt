@@ -1,4 +1,4 @@
-se realiza con el dataset 5 de Adult Preparacion Ejercicion una regresion multivariable sin usar redes neuronales, solo el codigo
+se realiza con el dataset 5 de Adult Preparacion Ejericion una regresion multivariable sin usar redes neuronales, solo el codigo
 
 PRIMERA PARTE
 enlace de Git
